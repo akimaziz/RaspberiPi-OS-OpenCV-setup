@@ -1,0 +1,107 @@
+    1  ipconfig
+    2  ifconfig
+    3  sudo apt-get install xrdp
+    4  ifconfig
+    5  ifconfig/all
+    6  ifconfig
+    7  sudo raspi-config
+    8  sudo poweroff
+    9  ifocnfig
+   10  ifconfig
+   11  sudo raspi-config nonint do_wifi_country XX
+   12  sudo raspi-config nonint do_wifi_country MY
+   13  rfkill unblock wifi
+   14  sudo connmanctl enable wifi
+   15  sudo raspi-config
+   16  sudo apt install urfkill
+   17  sudo unblock wifi
+   18  sudo reboot
+   19  sudo idle
+   20  sudo apt-get install
+   21  sudo apt-get upgrade
+   22  sudo idle
+   23  sudo nano /sbin/dphys-swapfile
+   24  sudo nano /etc/dphys-swapfile
+   25  sudo reboot
+   26  hostname
+   27  ifconfig
+   28  username
+   29  sudo raspi-config
+   30  sudo apt-get install xrdp
+   31  sudo raspi-config
+   32  sudo apt-get isntall -y ubuntu-desktop gnome-session-fallback tightvncserver xrdp
+   33  sudo apt-get install -y ubuntu-desktop gnome-session-fallback tightvncserver xrdp
+   34  hostname
+   35  sudo apt-get install xrdp
+   36  sudo raspi-config
+   37  free -m
+   38  wget https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits/raw/main/OpenCV-4-5-5.sh
+   39  sudo chmod 755 ./OpenCV-4-5-5.sh
+   40  ./OpenCV-4-5-5.sh
+   41  sudo apt-get update
+   42  sudo apt-get upgrade
+   43  wget https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits/raw/main/OpenCV-4-5-5.sh
+   44  sudo chmod 755 ./OpenCV-4-5-5.sh
+   45  ./OpenCV-4-5-5.sh
+   46  sudo raspi-config
+   47  pwd
+   48  ls
+   49  sudo date -s "Thur Dec 29 09:35:02 UTC+08 2022"
+   50  sudo reboot
+   51  sudo raspi-config
+   52  sudo reboot
+   53  pwd
+   54  cd /
+   55  ls
+   56  cd home/
+   57  LS
+   58  ls
+   59  cd pikimi/
+   60  ls
+   61  sudo idle
+   62  lscpu
+   63  sudo lshw -C display
+   64  lshw -C display
+   65  free -m
+   66  uname -r
+   67  apt list --installed 
+   68  python3 -V
+   69  cd Desktop/
+   70  ls
+   71  nano test.py
+   72  ls
+   73  python3 test.py 
+   74  nano test.py
+   75  pip3 install jupyterlab
+   76  sudo reboot
+   77  wget https://github.com/Qengineering/Install-OpenCV-Raspberry-Pi-32-bits/raw/main/OpenCV-4-5-5.sh
+   78  sudo chmod 755 ./OpenCV-4-5-5.sh
+   79  ./OpenCV-4-5-5.sh
+   80  ip a
+   81  ifconfig
+   82  sudo apt-get install apache2
+   83  sudo systemctl start apache2
+   84  sudo systemctl status apache2
+   85  jupyter-lab --ip 0.0.0.0
+   86  cd Desktop/
+   87  history >> history.txt
+
+
+89 touch test.txt
+90 sudo touch test.txt
+100 sudo pip3 install jupyterlab 
+101 sudo jupyter-lab --ip 0.0.0.0 --allow-root
+102 sudo jupyter-lab --ip 0.0.0.0
+
+new method to install jupyterlab
+
+01. sudo apt-get update
+02. sudo apt-get install python3-pip
+03. sudo pip3 install setuptools
+04. sudo apt install libffi-dev
+05. sudo pip3 install cffi
+06. pip3 install jupyterlab
+07. jupyter-lab --ip 0.0.0.0
+
+
+
