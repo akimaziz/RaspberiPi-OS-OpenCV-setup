@@ -1,3 +1,6 @@
+    THIS IS THE LOG CODE SAVE FOR onwards use.
+    most of them use to check and setup the raspberry pi from the start.
+    
     1  ipconfig
     2  ifconfig
     3  sudo apt-get install xrdp
